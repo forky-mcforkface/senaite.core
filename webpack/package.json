@@ -36,7 +36,7 @@
     "react": "^19.2.7",
     "react-dom": "^19.2.7",
     "react-dropzone": "^20.1.2",
-    "tinymce": "^8.9.1"
+    "tinymce": "^8.9.3"
   },
   "devDependencies": {
     "@babel/core": "^8.0.6",
